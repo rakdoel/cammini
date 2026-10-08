@@ -1,0 +1,857 @@
+[
+ {
+  "id": "querce",
+  "titolo": "Le querce",
+  "intro": "Lungo i cammini si passa spesso sotto querce di specie diverse e l'atlante ne descrive nove. Distinguerle dice qualcosa sul clima del posto, perché il leccio sta nelle zone submediterranee o mediterranee meno torride, la sughera preferisce le coste tirreniche e la Sardegna, la roverella è molto rustica ma al nord cerca zone riparate dal freddo. Il trucco principale è guardare prima se le foglie restano sull'albero tutto l'anno, poi la peluria su foglie e gemme, il picciolo e la cupola della ghianda.",
+  "chiave": [
+   {
+    "nome": "cerro",
+    "sci": "Quercus cerris",
+    "come": "Cupola della ghianda e gemme con peluria riccia giallina. Foglie con da 7 a 9 paia di lobi ineguali, corteccia con solchi rossicci."
+   },
+   {
+    "nome": "roverella",
+    "sci": "Quercus pubescens",
+    "come": "Gemme e pagina inferiore delle foglie con fine peluria. Peduncolo della ghianda spesso e peloso. D'inverno tiene le foglie secche attaccate ai rami."
+   },
+   {
+    "nome": "leccio",
+    "sci": "Quercus ilex",
+    "come": "Sempreverde, foglie verde scuro e lucide sopra, grigiastre e vellutate sotto, con margine intero o dentato. Cupola con squame ben distinte."
+   },
+   {
+    "nome": "farnia",
+    "sci": "Quercus robur",
+    "come": "Foglie quasi senza picciolo, con due vistose orecchiette alla base. Ghiande su peduncoli lunghi da 3 a 7 cm."
+   },
+   {
+    "nome": "rovere",
+    "sci": "Quercus petraea",
+    "come": "Foglie con picciolo più lungo e ghiande quasi senza gambo, il contrario della farnia. Portamento regolare e chioma molto folta."
+   },
+   {
+    "nome": "quercia da sughero",
+    "sci": "Quercus suber",
+    "come": "Sempreverde simile al leccio, con corteccia di sughero che copre tronco e rami grossi. Scortecciata, il sughero si riforma."
+   },
+   {
+    "nome": "quercia spinosa e fragno",
+    "sci": "",
+    "come": "Querce arbustive del sud. La quercia spinosa è sempreverde e non supera i 2 metri, il fragno è semi-sempreverde e vive in Puglia e Basilicata."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "Il legno del leccio è tra i più ricchi di tannini che si conoscano. A contatto con il ferro dà una piccola chiazza blu, che si forma attorno ai chiodi infissi nel legno.",
+  "specie_atlante": [
+   "Quercus cerris",
+   "Quercus pubescens",
+   "Quercus ilex",
+   "Quercus robur",
+   "Quercus suber",
+   "Quercus coccifera",
+   "Quercus trojana"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Quercus",
+   "https://it.wikipedia.org/wiki/Quercus_cerris",
+   "https://it.wikipedia.org/wiki/Quercus_pubescens",
+   "https://it.wikipedia.org/wiki/Quercus_ilex",
+   "https://it.wikipedia.org/wiki/Quercus_robur"
+  ]
+ },
+ {
+  "id": "aceri",
+  "titolo": "Gli aceri",
+  "intro": "Gli aceri hanno foglie opposte con lobi e un frutto fatto da una coppia di samare, ma per dire di quale specie si tratta serve un controllo in più. L'atlante ne descrive due, l'acero campestre e l'acero minore, mentre nei boschi italiani crescono anche l'acero di monte e l'acero riccio. Il trucco principale è contare i lobi, guardare la punta della foglia e osservare le samare, che nel campestre sono portate in orizzontale, nel minore hanno le ali quasi parallele e nel riccio le ali divergenti di 160 gradi.",
+  "chiave": [
+   {
+    "nome": "acero campestre",
+    "sci": "Acer campestre",
+    "come": "Foglie con 3 o 5 lobi ottusi, margine intero e ondulato. Samare portate in orizzontale. Rami sottili e pelosi, a differenza degli altri aceri italiani."
+   },
+   {
+    "nome": "acero minore",
+    "sci": "Acer monspessulanum",
+    "come": "Foglie con soli 3 lobi, margine intero, coriacee e pelose sotto. Samare con ali quasi parallele. Vive nei boschi caldi ed è resistente alla siccità."
+   },
+   {
+    "nome": "acero di monte",
+    "sci": "Acer pseudoplatanus",
+    "come": "Cinque lobi poco acuti, margine debolmente dentato. Corteccia che si stacca in grandi placche, gemme verdi. Cresce in montagna fino a 1900 metri."
+   },
+   {
+    "nome": "acero riccio",
+    "sci": "Acer platanoides",
+    "come": "Cinque lobi poco profondi e dentati, con punta spesso ricurva. Il picciolo spezzato emette lattice. Samare con ali divergenti di 160 gradi."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "In Giappone esiste una tradizione, il momijigari, che consiste nell'andare a caccia delle foglie d'autunno e celebra i colori fiammeggianti degli aceri. La vivacità del colore dipende dall'escursione termica fra il giorno e la notte.",
+  "specie_atlante": [
+   "Acer campestre",
+   "Acer monspessulanum"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Acer_campestre",
+   "https://it.wikipedia.org/wiki/Acer_monspessulanum",
+   "https://it.wikipedia.org/wiki/Acer_pseudoplatanus",
+   "https://it.wikipedia.org/wiki/Acer_platanoides",
+   "https://it.wikipedia.org/wiki/Acer_(botanica)"
+  ]
+ },
+ {
+  "id": "pini",
+  "titolo": "I pini e le altre conifere",
+  "intro": "Lungo i cammini si incontrano conifere di molte specie, dal pino mugo che sta in alta quota al larice che vive tra i 1000 e i 2400 metri nelle Alpi, e fra queste c'è anche il tasso, che è velenoso. Il trucco principale è guardare aghi e pigne. Nei pini gli aghi sono riuniti in fascetti di 2, 3 o 5 e contano la loro lunghezza e la forma della pigna. Negli abeti gli aghi sono singoli e le pigne stanno erette nell'abete bianco e pendenti nell'abete rosso.",
+  "chiave": [
+   {
+    "nome": "pino domestico",
+    "sci": "Pinus pinea",
+    "come": "Due aghi per fascicolo, lunghi da 10 a 15 cm. Pigne rotondeggianti da 10 a 15 cm, con semi senza ali che sono i pinoli."
+   },
+   {
+    "nome": "pino d'Aleppo",
+    "sci": "Pinus halepensis",
+    "come": "Due aghi per fascicolo, più corti, da 6 a 10 cm. Pigne coniche da 5 a 10 cm."
+   },
+   {
+    "nome": "pino nero e pino marittimo",
+    "sci": "",
+    "come": "Il nero ha aghi da 12 a 15 cm e pigne coniche. Il marittimo ha aghi da 14 a 18 cm e pigne allungate."
+   },
+   {
+    "nome": "pino mugo",
+    "sci": "Pinus mugo",
+    "come": "Pino grande come un cespuglio, di alta quota. Aghi da 4 a 6 cm, pigne di circa 5 cm con semi alati."
+   },
+   {
+    "nome": "abete bianco",
+    "sci": "Abies alba",
+    "come": "Aghi a punta arrotondata, non pungenti, con due strisce bianche sotto, disposti a pettine. Pigne erette che si sfaldano lasciando l'asse nudo sul ramo."
+   },
+   {
+    "nome": "abete rosso",
+    "sci": "Picea abies",
+    "come": "Aghi appuntiti a sezione quadrangolare, su cuscinetti in rilievo intorno al rametto. Pigne pendenti che cadono intere. Corteccia sottile e rossastra."
+   },
+   {
+    "nome": "larice e tasso",
+    "sci": "",
+    "come": "Il larice perde gli aghi e in autunno diventa giallo. Il tasso ha aghi lineari verde molto scuro e arilli rossi a maturità."
+   }
+  ],
+  "attenzione": "Il tasso è tossico in tutte le sue parti tranne la polpa rossa dell'arillo, e il seme duro che questa contiene è molto velenoso.",
+  "lo_sapevi": "Il legno dell'abete rosso amplifica bene il suono e si usa per le tavole armoniche degli strumenti a corda. Antonio Stradivari si riforniva presso la Magnifica Comunità di Fiemme per i suoi violini.",
+  "specie_atlante": [
+   "Pinus pinea",
+   "Pinus halepensis",
+   "Pinus nigra",
+   "Pinus pinaster",
+   "Pinus mugo",
+   "Abies alba",
+   "Picea abies",
+   "Larix decidua",
+   "Taxus baccata"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Pinus",
+   "https://it.wikipedia.org/wiki/Abies_alba",
+   "https://it.wikipedia.org/wiki/Picea_abies",
+   "https://it.wikipedia.org/wiki/Larix_decidua",
+   "https://it.wikipedia.org/wiki/Taxus_baccata"
+  ]
+ },
+ {
+  "id": "orchidee",
+  "titolo": "Le orchidee spontanee",
+  "intro": "Le orchidee spontanee si guardano e si fotografano, non si raccolgono, e riconoscere il genere aiuta a capire che cosa si ha davanti. Il trucco principale è osservare il labello, il petalo inferiore che si distingue dagli altri, e vedere se c'è uno sperone. Nelle ofridi il labello imita un insetto, nelle Anacamptis è rivolto in basso, nelle Orchis è intero o a tre lobi. Poi si guardano le foglie, che nelle Anacamptis non sono mai maculate e nelle Dactylorhiza hanno nervature parallele.",
+  "chiave": [
+   {
+    "nome": "Ophrys",
+    "sci": "",
+    "come": "Labello diverso dagli altri petali, con una macchia lucida detta specchio simile al torace di un insetto. Foglie basali in rosetta verde glauco."
+   },
+   {
+    "nome": "vesparia e ofride azzurra",
+    "sci": "",
+    "come": "Vesparia, labello vellutato grande e convesso, brunato con macchie più pallide. Ofride azzurra, labello grigio-azzurro lucido, bordi gialli e piccoli peli bruni."
+   },
+   {
+    "nome": "Orchis",
+    "sci": "",
+    "come": "Labello intero o a tre lobi, sepali tutti uguali e petali piccoli. Sperone quasi sempre presente. Foglie basali in rosetta, a volte maculate."
+   },
+   {
+    "nome": "Anacamptis",
+    "sci": "",
+    "come": "Labello rivolto in basso, foglie lanceolate mai maculate, fusto cilindrico con la punta porporina. Brattee simili all'ovario per dimensioni."
+   },
+   {
+    "nome": "Dactylorhiza",
+    "sci": "",
+    "come": "Foglie con nervature parallele che abbracciano il fusto, maculate o no. Sperone cilindrico rivolto in basso. L'orchide sambucina ha fiori gialli o rossastri."
+   },
+   {
+    "nome": "Cephalanthera",
+    "sci": "",
+    "come": "Fiori per lo più chiusi. Nella maggiore bianco candido, brattee lunghe al massimo metà dell'ovario. Nella bianca biancastri o giallognoli, brattee lunghe come il fiore."
+   },
+   {
+    "nome": "Himantoglossum",
+    "sci": "",
+    "come": "Labello trilobato con lobo centrale a nastro, ondulato o spiralato, lungo diverse volte il fiore. Nel barbone adriatico misura 4-6 cm. Fiori bianchi o porporini."
+   },
+   {
+    "nome": "fior di legna",
+    "sci": "Limodorum abortivum",
+    "come": "Fusto robusto violaceo, alto da 20 a 80 cm, con foglie ridotte a squame povere di clorofilla. Da 8 a 20 fiori grandi bianco-violacei."
+   }
+  ],
+  "attenzione": "Circa il 70% delle specie tutelate dalla Convenzione di Washington (CITES) sono orchidee e la raccolta illegale può portare perfino all'estinzione di alcune specie in natura, quindi non vanno raccolte.",
+  "lo_sapevi": "Nelle ofridi il labello simula l'addome della femmina di un insetto preciso e porta sostanze simili ai suoi ferormoni. Il maschio tenta di accoppiarsi, si carica di polline e lo deposita su un altro fiore.",
+  "specie_atlante": [
+   "Ophrys apifera",
+   "Ophrys speculum",
+   "Limodorum abortivum",
+   "Dactylorhiza sambucina",
+   "Cephalanthera damasonium",
+   "Cephalanthera longifolia",
+   "Himantoglossum adriaticum"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Ophrys",
+   "https://it.wikipedia.org/wiki/Orchis",
+   "https://it.wikipedia.org/wiki/Dactylorhiza",
+   "https://it.wikipedia.org/wiki/Limodorum_abortivum",
+   "https://bub.unibo.it/it/allegati/mostre-online/proteggere-le-orchidee-dal-commercio-illegale-la-cites/@@download/file/Proteggere%20le%20orchidee%20dal%20commercio%20illegale_la%20CITES.pdf",
+   "https://it.wikipedia.org/wiki/Cephalanthera_longifolia",
+   "https://it.wikipedia.org/wiki/Cephalanthera_damasonium",
+   "https://it.wikipedia.org/wiki/Himantoglossum",
+   "https://it.wikipedia.org/wiki/Himantoglossum_adriaticum"
+  ]
+ },
+ {
+  "id": "funghi",
+  "titolo": "Funghi mortali e i loro sosia",
+  "intro": "Con i funghi il rischio maggiore è scambiare uno mortale per uno ottimo. L'ovolo buono allo stadio di ovolo si confonde con l'amanita falloide, la tignosa panterina con l'amanita rosseggiante, il fungo dell'ulivo con il gallinaccio e il porcino malefico con il porcino. I sintomi della falloide possono comparire da 12 a 48 ore dopo il pasto e il danno al fegato è irreversibile. Il trucco principale è guardare l'insieme dei caratteri, lamelle, anello, base del gambo e modo di crescere, e non il solo cappello.",
+  "chiave": [
+   {
+    "nome": "amanita falloide",
+    "sci": "Amanita phalloides",
+    "come": "Cappello grigio-giallastro o verdastro, liscio e senza verruche. Lamelle bianche e libere, anello cadente a fazzoletto, gambo bulboso alla base."
+   },
+   {
+    "nome": "ovolo buono",
+    "sci": "Amanita caesarea",
+    "come": "Cappello arancione, lamelle e anello gialli, volva bianca. Da ovolo l'embrione è aranciato, nella falloide bianco o verdognolo. Lamelle bianche nell'ovolo malefico."
+   },
+   {
+    "nome": "tignosa panterina",
+    "sci": "Amanita pantherina",
+    "come": "Cappello bruno con piccole verruche bianche e margine striato. Gambo bianco con volva circoncisa e uno o due anelli obliqui sopra il bulbo."
+   },
+   {
+    "nome": "amanita rosseggiante",
+    "sci": "Amanita rubescens",
+    "come": "Carne che vira al rosso vinoso. Si confonde con la tignosa panterina. Commestibile solo dopo prolungata cottura, velenosa da cruda."
+   },
+   {
+    "nome": "fungo dell'ulivo",
+    "sci": "Omphalotus olearius",
+    "come": "Colore arancio, lamelle fitte, molto decorrenti, giallo oro. Cresce a ciuffi alla base di vecchi alberi o su ceppaie di latifoglie."
+   },
+   {
+    "nome": "gallinaccio",
+    "sci": "Cantharellus cibarius",
+    "come": "Ha creste al posto delle lamelle ed è un fungo terricolo, mentre il fungo dell'ulivo ha lamelle e cresce a ciuffi su ceppaie."
+   },
+   {
+    "nome": "porcino malefico",
+    "sci": "Rubroboletus satanas",
+    "come": "Cappello biancastro, pori rosso sangue, gambo tozzo con fine reticolo rosso vivo. La carne al taglio vira al viola o al blu."
+   }
+  ],
+  "attenzione": "Nessun fungo va mangiato in base a un libro o a una pagina come questa ma solo dopo il controllo dell'ispettorato micologico della ASL, gratuito per i funghi destinati all'uso domestico, e se dopo un pasto di funghi compaiono disturbi bisogna andare subito in ospedale portando gli avanzi.",
+  "lo_sapevi": "Le lamelle del fungo dell'ulivo sono bioluminescenti e si vedono al buio. Il fungo cresce a ciuffi alla base di vecchi alberi o su ceppaie di latifoglie, dall'estate all'autunno.",
+  "specie_atlante": [
+   "Amanita phalloides",
+   "Amanita caesarea",
+   "Amanita muscaria",
+   "Amanita pantherina",
+   "Amanita rubescens",
+   "Omphalotus olearius",
+   "Cantharellus cibarius",
+   "Rubroboletus satanas",
+   "Boletus edulis"
+  ],
+  "fonti": [
+   "https://www.uslumbria1.it/wp-content/uploads/2022/05/Leggi-tutte-le-informazioni-per-consumare-funghi-senza-problemi.pdf",
+   "https://it.wikipedia.org/wiki/Amanita_phalloides",
+   "https://it.wikipedia.org/wiki/Amanita_pantherina",
+   "https://it.wikipedia.org/wiki/Omphalotus_olearius",
+   "https://it.wikipedia.org/wiki/Rubroboletus_satanas"
+  ]
+ },
+ {
+  "id": "licheni",
+  "titolo": "I licheni e l'aria",
+  "intro": "I licheni sono un fungo e un'alga, o un cianobatterio, che vivono insieme e crescono su rocce, alberi e suolo. Assorbono dall'aria quello che trovano, metalli compresi, e per questo dicono qualcosa sulla qualità dell'aria. Il trucco principale è partire dalla forma di crescita, crostosa, fogliosa o fruticosa, e poi guardare dove vivono. La polmonaria di quercia è molto sensibile all'inquinamento, mentre la Xanthoria parietina resiste e si trova anche in ambienti molto antropizzati.",
+  "chiave": [
+   {
+    "nome": "licheni crostosi",
+    "sci": "",
+    "come": "Tallo appiattito e aderente al substrato, con superficie continua, polverosa oppure divisa in areole poligonali."
+   },
+   {
+    "nome": "licheni fogliosi",
+    "sci": "",
+    "come": "Lamine che crescono parallele al substrato, ancorate con fasci di ife dette rizine."
+   },
+   {
+    "nome": "licheni fruticosi",
+    "sci": "",
+    "come": "Si sviluppano in verticale e si ramificano, attaccati al substrato solo alla base."
+   },
+   {
+    "nome": "lichene arancione comune",
+    "sci": "Xanthoria parietina",
+    "come": "Tallo foglioso giallo-arancio, verdastro o grigio se cresce all'ombra, con lobi appiattiti larghi al massimo 4 mm. Su muri, rocce, cortecce e ringhiere."
+   },
+   {
+    "nome": "polmonaria di quercia",
+    "sci": "Lobaria pulmonaria",
+    "come": "Tallo verde, coriaceo e lobato, con creste e depressioni sulla faccia superiore. Verde vivo da bagnato, brunastro e cartaceo da secco."
+   },
+   {
+    "nome": "Flavoparmelia caperata e Ramalina farinacea",
+    "sci": "",
+    "come": "Flavoparmelia, lobi giallo-verdastri larghi 0,5-1,3 cm, molto sensibile all'inquinamento. Ramalina, ciuffi pendenti di lobi fini verdi su entrambe le facce, dove l'inquinamento è debole."
+   },
+   {
+    "nome": "Parmelia sulcata e Physcia adscendens",
+    "sci": "",
+    "come": "Parmelia, lobi blu-verdi sopra e neri sotto, con fessure chiare. Physcia, estremità dei lobi allargate a cappuccio. Entrambe si trovano con inquinamento medio."
+   },
+   {
+    "nome": "muschio quercino e muschio degli alberi",
+    "sci": "",
+    "come": "Evernia, lacinie pendenti verdi sopra e bianche sotto. Pseudevernia, lacinie grigie sopra e nerastre sotto. Accumulano metalli e si usano nel biomonitoraggio."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "La Xanthoria parietina ama l'azoto e si trova anche sui posatoi degli uccelli e sul vecchio cemento. Tollera metalli pesanti e ossidi di azoto, per questo viene usata nel biomonitoraggio dell'aria.",
+  "specie_atlante": [
+   "Xanthoria parietina",
+   "Lobaria pulmonaria",
+   "Flavoparmelia caperata",
+   "Ramalina farinacea",
+   "Parmelia sulcata",
+   "Physcia adscendens",
+   "Evernia prunastri",
+   "Pseudevernia furfuracea"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Licheni",
+   "https://it.wikipedia.org/wiki/Xanthoria_parietina",
+   "https://en.wikipedia.org/wiki/Lobaria_pulmonaria",
+   "https://www.artaabruzzo.it/download/pubblicazioni/20150226_AL_monitoraggio_licheni_aq_all_02.pdf",
+   "https://arpa.umbria.it/resources/docs/micron%2011/MICRON_11_31.pdf",
+   "https://www.afl-lichenologie.fr/telecharger/Doc/Lichens-et-qualite-Air.pdf",
+   "https://en.wikipedia.org/wiki/Parmelia_sulcata",
+   "https://en.wikipedia.org/wiki/Pseudevernia_furfuracea",
+   "https://en.wikipedia.org/wiki/Evernia_prunastri"
+  ]
+ },
+ {
+  "id": "tracce",
+  "titolo": "Tracce e segni degli animali",
+  "intro": "Nel bosco le impronte e i segni dicono quali animali sono passati, anche se non li si è visti. Il trucco principale è guardare la forma dell'impronta, il numero di dita, se si vedono le unghie e come procede la pista. Cinghiale, capriolo e cervo lasciano la traccia degli zoccoli, volpe, lupo e cane appoggiano le dita, il tasso appoggia l'intero palmo. Lupo e cane lasciano orme di misura simile e fra i due conta soprattutto l'andatura.",
+  "chiave": [
+   {
+    "nome": "cinghiale",
+    "sci": "Sus scrofa",
+    "come": "Orma di 6-9 cm, trapezoidale per i due speroni quasi sempre impressi, laterali e arretrati. Lascia grufolate nel terreno e pozze di fango, gli insogli."
+   },
+   {
+    "nome": "capriolo e cervo",
+    "sci": "",
+    "come": "Capriolo, zoccoli sottili e appuntiti di 4 cm circa, a cuore rovesciato. Cervo, zoccoli ravvicinati di 8-9 cm con punta tronca e arrotondata."
+   },
+   {
+    "nome": "volpe rossa",
+    "sci": "Vulpes vulpes",
+    "come": "Orma ellittica di 5-6 cm con quattro dita simmetriche, unghie evidenti e appuntite. Spesso appoggia le zampe posteriori sulle impronte anteriori."
+   },
+   {
+    "nome": "lupo e cane",
+    "sci": "",
+    "come": "Lupo, orma ovale di 10-11 cm, cuscinetti digitali meno ravvicinati, pista in linea retta. Cane, orma arrotondata, cuscinetti ravvicinati, pista a zig zag."
+   },
+   {
+    "nome": "tasso e istrice",
+    "sci": "",
+    "come": "Il tasso lascia cinque dita corte con lunghi artigli impressi. Dell'istrice si trovano gli aculei, con 4 o 5 anelli bianchi e neri."
+   },
+   {
+    "nome": "lepre comune",
+    "sci": "Lepus europaeus",
+    "come": "Traccia a forma di Y, con le zampe posteriori affiancate davanti alle anteriori. I polpastrelli non si vedono nitidi per i peli."
+   },
+   {
+    "nome": "scoiattolo e picchio rosso maggiore",
+    "sci": "",
+    "come": "I segni di denti sulle pigne indicano lo scoiattolo o un topo, quelli di becco un uccello. Il picchio rosso maggiore le martella su un'incudine."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "Gli istrici raccolgono e masticano ossa e le loro tane ne sono a volte piene, un'abitudine legata all'affilatura degli incisivi e all'integrazione di minerali. L'istrice non scava la tana ma usa grotte e tane abbandonate.",
+  "specie_atlante": [
+   "Sus scrofa",
+   "Capreolus capreolus",
+   "Cervus elaphus",
+   "Vulpes vulpes",
+   "Canis lupus",
+   "Meles meles",
+   "Hystrix cristata",
+   "Lepus europaeus",
+   "Sciurus vulgaris",
+   "Sciurus meridionalis",
+   "Dendrocopos major"
+  ],
+  "fonti": [
+   "https://csc.cai.it/wp-content/uploads/2018/10/Riconoscimento-Le-tracce-di-animali.pdf",
+   "https://www.montagna.tv/251725/animali-del-bosco-come-riconoscere-i-segni-della-loro-presenza/amp/",
+   "https://www.montagna.tv/212519/impronte-nella-neve-di-chi-sono/amp/",
+   "https://it.wikipedia.org/wiki/Hystrix_cristata",
+   "https://it.wikipedia.org/wiki/Dendrocopos_major"
+  ]
+ },
+ {
+  "id": "farfalle",
+  "titolo": "Farfalle diurne e falene",
+  "intro": "Una farfalla ferma su un fiore si può già inquadrare con pochi segni, anche senza conoscerne la specie. Il primo trucco è guardare le antenne e la posizione delle ali a riposo, che separano le farfalle diurne dalle falene. Le farfalle hanno antenne a clava, le falene antenne filiformi o a pettine. Poi si passa alla famiglia, che dipende dalle dimensioni, dalla presenza di code sulle ali posteriori, dal colore di fondo e dalle zampe anteriori.",
+  "chiave": [
+   {
+    "nome": "Farfalle diurne",
+    "sci": "",
+    "come": "Antenne a clava, ali chiuse a libro a riposo, abitudini generalmente diurne, colori vivaci. La crisalide non è avvolta in un bozzolo."
+   },
+   {
+    "nome": "Falene",
+    "sci": "",
+    "come": "Antenne a pettine o filiformi, ali aperte o a tetto a riposo, abitudini notturne, colori spenti."
+   },
+   {
+    "nome": "Papilionidi",
+    "sci": "",
+    "come": "Farfalle grandi e multicolori. In varie specie le ali posteriori hanno due prolungamenti a coda. L'apollo vola lento e con fatica, il macaone meglio."
+   },
+   {
+    "nome": "Pieridi",
+    "sci": "",
+    "come": "Bianche, gialle o arancioni, come cavolaie, cedronella e aurora. Macchie diverse secondo specie e sesso. Tutte e sei le zampe ben sviluppate."
+   },
+   {
+    "nome": "Licenidi",
+    "sci": "",
+    "come": "Piccole, di solito sotto i 5 cm, azzurre, verdi o color rame secondo il gruppo. Molte hanno code sottili anellate di bianco e nero."
+   },
+   {
+    "nome": "bellargo",
+    "sci": "Polyommatus bellargus",
+    "come": "Maschio azzurro puro sopra, femmina bruno-scura con macchie giallo-arancio. Sotto grigio-brunastro con puntini neri cerchiati di bianco. Frangia a scacchi, non continua come nell'Icaro."
+   },
+   {
+    "nome": "Ninfalidi",
+    "sci": "",
+    "come": "Zampe anteriori corte, a spazzola e atrofizzate, usate solo come organi di senso. Ali vivaci sopra e più spente sotto, per mimetizzarsi a riposo."
+   },
+   {
+    "nome": "Esperidi",
+    "sci": "",
+    "come": "Corpo tozzo, ali piccole e di solito brune o grigie. Clava delle antenne uncinata all'indietro. Volo a scatti, ali rialzate o aperte da posate."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "La distinzione tra farfalle e falene non è una classificazione scientifica. Le farfalle moderne corrispondono alla superfamiglia Papilionoidea. La loro crisalide, a differenza di quella delle falene, non è avvolta in un bozzolo.",
+  "specie_atlante": [
+   "Papilio machaon",
+   "Parnassius apollo",
+   "Pieris brassicae",
+   "Pieris rapae",
+   "Gonepteryx rhamni",
+   "Anthocharis cardamines",
+   "Polyommatus bellargus",
+   "Polyommatus icarus"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Rhopalocera",
+   "https://it.wikipedia.org/wiki/Papilionidae",
+   "https://it.wikipedia.org/wiki/Pieridae",
+   "https://it.wikipedia.org/wiki/Nymphalidae",
+   "https://en.wikipedia.org/wiki/Lycaenidae",
+   "https://en.wikipedia.org/wiki/Hesperiidae",
+   "https://montagneaperte.it/ambienteebiodiversita/?p=9772"
+  ]
+ },
+ {
+  "id": "libellule",
+  "titolo": "Libellule e damigelle",
+  "intro": "Libellule e damigelle sembrano insetti molto simili, ma sono due gruppi diversi e si separano con un colpo d'occhio. Il segno più rapido è la posizione delle ali quando l'insetto si posa. Le libellule le tengono ampiamente distese ai lati del corpo, le damigelle le adagiano all'indietro sull'addome, una contro l'altra. Un secondo segno sono gli occhi, quasi sempre riuniti sopra il capo nelle libellule e separati nelle damigelle. Anche il corpo aiuta, più robusto nelle libellule e sempre sottile e cilindrico nelle damigelle.",
+  "chiave": [
+   {
+    "nome": "Libellule",
+    "sci": "",
+    "come": "Ali ampiamente distese a riposo. Occhi molto prominenti, quasi sempre riuniti sopra il capo. Addome più robusto, a sezione triangolare o appiattito."
+   },
+   {
+    "nome": "Damigelle",
+    "sci": "",
+    "come": "Ali adagiate all'indietro sull'addome. Capo sviluppato in altezza con occhi grandi e separati. Corpo sottile e cilindrico, ali anteriori e posteriori quasi identiche."
+   },
+   {
+    "nome": "splendente comune",
+    "sci": "Calopteryx splendens",
+    "come": "Maschio blu-verde metallico con ali trasparenti segnate da un'ampia macchia scura. Femmina verde metallizzata. Acque fresche e debolmente correnti."
+   },
+   {
+    "nome": "imperatore comune",
+    "sci": "Anax imperator",
+    "come": "Lungo 66-84 mm, può essere considerato la più grande libellula europea."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "Le damigelle volano meno bene delle libellule. Nelle libellule le ali posteriori sono più sviluppate di quelle anteriori e questo ne aumenta l'abilità di volo. Nelle damigelle le quattro ali sono praticamente identiche.",
+  "specie_atlante": [
+   "Calopteryx splendens",
+   "Anax imperator"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Odonata",
+   "https://it.wikipedia.org/wiki/Anisoptera",
+   "https://it.wikipedia.org/wiki/Zygoptera",
+   "https://it.wikipedia.org/wiki/Calopteryx_splendens",
+   "https://it.wikipedia.org/wiki/Anax_imperator"
+  ]
+ },
+ {
+  "id": "imenotteri",
+  "titolo": "Api, vespe, calabroni e sirfidi",
+  "intro": "Bombi, vespe e calabroni portano bande gialle e nere, e le specie simili si scambiano facilmente. Distinguerle serve anche a sapere come si comportano. Nelle api e nei calabroni pungono solo le femmine, mentre il bombo, poco aggressivo, ha un pungiglione liscio e può pungere più volte. I sirfidi sono ditteri che somigliano ad api e vespe al punto da ingannare i meno esperti. Si riconoscono dal volo stazionario, dai grandi occhi e dalle due sole ali.",
+  "chiave": [
+   {
+    "nome": "ape europea",
+    "sci": "Apis mellifera",
+    "come": "Più piccola e meno tozza del bombo. Pungono operaie e regina, mai i fuchi. Il pungiglione ha uncini rivolti all'indietro."
+   },
+   {
+    "nome": "bombi",
+    "sci": "",
+    "come": "Più grandi delle api, tozzi, con soffice peluria e bande gialle e nere. Poco aggressivi, ma regine e operaie pungono più volte."
+   },
+   {
+    "nome": "calabrone",
+    "sci": "Vespa crabro",
+    "come": "È la più grossa vespa europea, la regina arriva a 35 mm. Bruno rossiccio con macchie e strisce gialle. Il maschio non ha pungiglione."
+   },
+   {
+    "nome": "vespa cartonaia europea",
+    "sci": "Polistes dominula",
+    "come": "Figura snella, bande nere e gialle lucenti, guance gialle, mandibole quasi sempre nere. Aggressività medio-bassa. Si confonde con la vespa di terra, più aggressiva."
+   },
+   {
+    "nome": "sirfidi",
+    "sci": "",
+    "come": "Sono ditteri, con due sole ali. Due grandi occhi, uniti nella maggior parte dei maschi e separati nelle femmine. Possono restare immobili sospesi nell'aria."
+   }
+  ],
+  "attenzione": "Il calabrone di solito evita l'uomo, ma vicino al nido o se messo alle strette può diventare molto aggressivo, e la sua puntura molto dolorosa può provocare reazioni anafilattiche anche mortali nelle persone allergiche.",
+  "lo_sapevi": "L'ape operaia che punge un vertebrato non riesce a togliere il pungiglione e si strappa, lasciando nella ferita anche le ghiandole del veleno e quella del feromone di allarme, che richiama le altre operaie. Muore in pochi minuti.",
+  "specie_atlante": [
+   "Apis mellifera",
+   "Vespa crabro",
+   "Polistes dominula",
+   "Vespula germanica"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Syrphidae",
+   "https://it.wikipedia.org/wiki/Apis_mellifera",
+   "https://it.wikipedia.org/wiki/Vespa_crabro",
+   "https://it.wikipedia.org/wiki/Polistes_dominula",
+   "https://it.wikipedia.org/wiki/Bombus"
+  ]
+ },
+ {
+  "id": "ortotteri",
+  "titolo": "Cavallette, grilli e mantidi",
+  "intro": "Cavallette e grilli sembrano simili, ma si dividono in due gruppi con un segno facile da vedere, la lunghezza delle antenne. Nelle cavallette sono più corte di metà corpo. Nei grilli e nelle cavallette verdi sono filiformi e quasi sempre più lunghe dell'intero corpo. Anche l'ovopositore delle femmine aiuta, corto e poco visibile nelle prime, vistoso e spesso a sciabola nelle seconde. I mantidi sono un gruppo a parte, predatori voraci che si riconoscono dalle zampe anteriori armate di spine e dal capo triangolare.",
+  "chiave": [
+   {
+    "nome": "Cavallette",
+    "sci": "",
+    "come": "Antenne più corte di metà corpo. Femmine con ovopositore corto e poco evidente."
+   },
+   {
+    "nome": "Grilli e cavallette dalle lunghe antenne",
+    "sci": "",
+    "come": "Antenne filiformi, quasi sempre più lunghe dell'intero corpo. Femmine con ovopositore vistoso, spesso a sciabola. Cantano sollevando e sfregando tra loro le tegmine."
+   },
+   {
+    "nome": "grillo campestre",
+    "sci": "Gryllus campestris",
+    "come": "Lungo 2,5 cm, di colore nero lucente."
+   },
+   {
+    "nome": "grillo domestico",
+    "sci": "Acheta domesticus",
+    "come": "Livrea giallastra a macchie brune."
+   },
+   {
+    "nome": "cavalletta verde",
+    "sci": "Tettigonia viridissima",
+    "come": "Verde brillante con un'unica banda bruna dorsale. Antenne eccezionalmente lunghe. Maschio 28-36 mm, femmina 32-42 mm, con ovopositore di 24-33 mm."
+   },
+   {
+    "nome": "Mantidi",
+    "sci": "",
+    "come": "Zampe anteriori con femori robusti e lunghi, armati di due file di spine. Capo triangolare di fronte, molto mobile, con grandi occhi. Corpo allungato."
+   },
+   {
+    "nome": "mantide religiosa",
+    "sci": "Mantis religiosa",
+    "come": "Dal verde brillante al marrone chiaro, maschi di 5-6 cm e femmine fino a 8 cm. Due ocelli neri sul lato interno delle zampe anteriori."
+   }
+  ],
+  "attenzione": "La cavalletta verde, se catturata, può mordere dolorosamente.",
+  "lo_sapevi": "Dopo l'accoppiamento la femmina della mantide religiosa divora il maschio, partendo dalla testa. Pare dipenda dal bisogno di proteine per produrre le uova, e in allevamento una femmina ben nutrita spesso lo risparmia.",
+  "specie_atlante": [
+   "Tettigonia viridissima",
+   "Mantis religiosa"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Orthoptera",
+   "https://it.wikipedia.org/wiki/Ensifera",
+   "https://it.wikipedia.org/wiki/Mantodea",
+   "https://it.wikipedia.org/wiki/Mantis_religiosa",
+   "https://it.wikipedia.org/wiki/Tettigonia_viridissima"
+  ]
+ },
+ {
+  "id": "ragni",
+  "titolo": "I ragni dei sentieri",
+  "intro": "In Italia solo due specie di ragni hanno un morso di potenziale rilevanza medica. Ragni come il ragno vespa e il ragno crociato non sono aggressivi e il loro morso ha effetti blandi. Per molte specie il primo segno da cercare è il disegno del corpo. Il ragno vespa ha strisce gialle e nere, il crociato una croce di macchie bianche, la malmignatta tredici macchie rosse, il ragno violino una macchia a forma di violino.",
+  "chiave": [
+   {
+    "nome": "malmignatta",
+    "sci": "Latrodectus tredecimguttatus",
+    "come": "Femmina fino a 15 mm con 13 macchie rosse. Ragnatela irregolare molto resistente fra sassi e muretti, in macchia mediterranea bassa e spesso arida."
+   },
+   {
+    "nome": "ragno violino",
+    "sci": "Loxosceles rufescens",
+    "come": "Corpo fino a 9 mm, marrone giallastro uniforme, con una macchia a violino sulla parte anteriore. Sei occhi invece di otto. Zampe lunghe e sottili."
+   },
+   {
+    "nome": "ragno vespa",
+    "sci": "Argiope bruennichi",
+    "come": "Femmina di 2-5 cm con strisce gialle e nere, maschio circa la metà e di colori scuri e uniformi. Tela preferibilmente sugli arbusti."
+   },
+   {
+    "nome": "ragno crociato",
+    "sci": "Araneus diadematus",
+    "come": "Croce di macchie bianche sul dorso, colore dal rosa al marrone. Femmina fino a 20 mm. Tela circolare appesa ai fusti delle piante."
+   },
+   {
+    "nome": "falsa tarantola",
+    "sci": "Hogna radiata",
+    "come": "Femmina di 20 mm, 7-8 cm con le zampe. Grossi occhi, esce di notte da una tana fissa. I disegni cambiano da esemplare a esemplare."
+   }
+  ],
+  "attenzione": "Il morso della malmignatta può essere pericoloso per bambini, anziani e adulti debilitati, e quello del ragno violino può causare in soggetti deboli un'ulcera necrotica.",
+  "lo_sapevi": "Un tempo alla falsa tarantola e a Lycosa tarantula si attribuiva la pericolosità legata al tarantismo. In realtà è poco aggressiva e preferisce fuggire, anche se il morso delle femmine con il sacco di uova fa male.",
+  "specie_atlante": [
+   "Loxosceles rufescens",
+   "Argiope bruennichi",
+   "Araneus diadematus",
+   "Hogna radiata"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Latrodectus_tredecimguttatus",
+   "https://it.wikipedia.org/wiki/Loxosceles_rufescens",
+   "https://it.wikipedia.org/wiki/Argiope_bruennichi",
+   "https://it.wikipedia.org/wiki/Araneus_diadematus",
+   "https://it.wikipedia.org/wiki/Hogna_radiata"
+  ]
+ },
+ {
+  "id": "serpenti",
+  "titolo": "Vipera o biscia",
+  "intro": "La vipera non è aggressiva e se non viene molestata tende a scappare e a nascondersi, ma il suo morso può essere un serio problema per un bambino. Saperla distinguere serve a non temere serpenti non velenosi come la natrice dal collare e il biacco. Il trucco principale è guardare testa e coda. La vipera ha testa triangolare, pupilla verticale e coda breve che finisce di colpo, mentre le bisce hanno coda lunga e affusolata. Il disegno a zig-zag sul dorso può variare e non basta da solo.",
+  "chiave": [
+   {
+    "nome": "vipera comune",
+    "sci": "Vipera aspis",
+    "come": "Tozza, con coda breve che finisce di colpo. Testa triangolare, più larga del corpo, e pupilla verticale. Zig-zag scuro sul dorso, disegno variabile."
+   },
+   {
+    "nome": "Bisce e altri colubridi",
+    "sci": "",
+    "come": "Coda lunga e affusolata, placche grandi e regolari, corpo meno tozzo. Nella vipera coda breve e sottile, placche piccole e irregolari."
+   },
+   {
+    "nome": "natrice dal collare barrata",
+    "sci": "Natrix helvetica",
+    "come": "Grigio-verde scuro, barra nera sui fianchi, collare giallo e nero. Può superare il metro. Frequenta gli stagni. Non è velenosa."
+   },
+   {
+    "nome": "biacco",
+    "sci": "Hierophis viridiflavus",
+    "come": "Nero con screziature gialle a reticolo su capo e dorso, ventre chiaro. Adulti di 120-130 cm, molto agile e veloce. Non è velenoso per l'uomo."
+   }
+  ],
+  "attenzione": "In caso di morso di vipera bisogna restare calmi, togliere anelli e bracciali prima del gonfiore, immobilizzare l'arto e portare la persona al pronto soccorso senza farla camminare, evitando il laccio emostatico, la suzione o l'aspirazione del veleno e gli alcolici.",
+  "lo_sapevi": "Quando è minacciata la natrice dal collare può emettere dalle ghiandole anali un fluido dall'odore di aglio, fingersi morta diventando molle e perfino secernere sangue dalla bocca e dal naso.",
+  "specie_atlante": [
+   "Vipera aspis",
+   "Natrix helvetica",
+   "Hierophis viridiflavus"
+  ],
+  "fonti": [
+   "https://sanita.puglia.it/documents/25176/133947/MORSO+DI+VIPERA+++RICONOSCIMENTO+E+PRIMO+SOCCORSO/381b7616-ee5f-4037-97e9-49e348725505",
+   "https://cittametropolitana.bo.it/portale/Engine/RAServeFile.php/f/news/GUIDA_COME_DISTINGUERE_una_Vipera.pdf",
+   "https://it.wikipedia.org/wiki/Vipera_aspis",
+   "https://it.wikipedia.org/wiki/Natrix_helvetica",
+   "https://it.wikipedia.org/wiki/Hierophis_viridiflavus"
+  ]
+ },
+ {
+  "id": "rapaci",
+  "titolo": "Rapaci in volo",
+  "intro": "Alcuni dei rapaci che si vedono sopra i sentieri sono rari, come il capovaccaio, classificato in pericolo, e il grifone, che in Italia era rimasto solo in Sardegna prima delle reintroduzioni. Per riconoscerli in volo si guardano soprattutto la forma della coda, le dimensioni e il colore delle parti inferiori. La coda è forcuta nei nibbi, corta e quadrata nel grifone, a cuneo nel capovaccaio. L'apertura alare va dai 71-80 cm del gheppio ai 220 cm dell'aquila reale.",
+  "chiave": [
+   {
+    "nome": "poiana comune",
+    "sci": "Buteo buteo",
+    "come": "Marrone scuro, con coda lunga e banda nera."
+   },
+   {
+    "nome": "nibbio bruno e nibbio reale",
+    "sci": "",
+    "come": "Coda forcuta, molto nel reale e poco nel bruno. Il reale è più grande e chiaro, con coda rossiccia e macchia biancastra sotto le ali."
+   },
+   {
+    "nome": "gheppio",
+    "sci": "Falco tinnunculus",
+    "come": "Maschio rosso mattone, coda grigia con banda nera. Apertura alare di 71-80 cm."
+   },
+   {
+    "nome": "falco pellegrino",
+    "sci": "Falco peregrinus",
+    "come": "Ali appuntite, coda corta, dorso blu ardesia. Apertura alare di 95-110 cm."
+   },
+   {
+    "nome": "aquila reale",
+    "sci": "Aquila chrysaetos",
+    "come": "Apertura alare di circa 220 cm. Bruno uniforme, con capo e nuca fulvo dorati."
+   },
+   {
+    "nome": "biancone",
+    "sci": "Circaetus gallicus",
+    "come": "Chiaro nelle parti inferiori, con capo e petto che si staccano nettamente. Apertura 170-190 cm. Giovani molto più chiari, a volte con testa quasi bianca."
+   },
+   {
+    "nome": "grifone e capovaccaio",
+    "sci": "",
+    "come": "Il grifone ha coda corta e quadrata, apertura di 2,4-2,8 m. Il capovaccaio adulto è bianco con remiganti nere e coda a cuneo."
+   }
+  ],
+  "attenzione": "Il capovaccaio è classificato in pericolo e in Italia le coppie riproduttive sono scese da 30 nel 1970 a 9 negli anni Novanta.",
+  "lo_sapevi": "Il capovaccaio della sottospecie nominale usa un grosso ciottolo nel becco per rompere uova di grandi dimensioni, come quelle di uno struzzo o di un'otarda. In Bulgaria è stato visto usare anche un bastoncino per arrotolare la lana del nido.",
+  "specie_atlante": [
+   "Buteo buteo",
+   "Milvus migrans",
+   "Milvus milvus",
+   "Falco tinnunculus",
+   "Falco peregrinus",
+   "Aquila chrysaetos",
+   "Circaetus gallicus",
+   "Gyps fulvus",
+   "Neophron percnopterus"
+  ],
+  "fonti": [
+   "https://www.regione.piemonte.it/web/media/29174/download",
+   "https://it.wikipedia.org/wiki/Milvus_milvus",
+   "https://it.wikipedia.org/wiki/Gyps_fulvus",
+   "https://it.wikipedia.org/wiki/Neophron_percnopterus",
+   "https://it.wikipedia.org/wiki/Circaetus_gallicus"
+  ]
+ },
+ {
+  "id": "canti",
+  "titolo": "Le voci del bosco e dei campi",
+  "intro": "Alcuni uccelli, come l'assiolo che muove il capo mentre canta, sono difficili da localizzare e conviene riconoscerli dalla voce. L'ora della giornata aiuta. Merlo e pettirosso cantano anche di sera. L'usignolo a inizio primavera canta di notte fino al mattino e più avanti anche di giorno, con strofe chiare e forti. L'assiolo ripete un chiù dal tramonto all'alba. L'upupa fa un hup-up-up di tre sillabe, mentre i picchi martellano i tronchi per segnalare la propria presenza ai rivali.",
+  "chiave": [
+   {
+    "nome": "merlo",
+    "sci": "Turdus merula",
+    "come": "Canto forte e melodioso, spesso udibile all'alba e al tramonto. Canta anche di sera."
+   },
+   {
+    "nome": "pettirosso",
+    "sci": "Erithacus rubecula",
+    "come": "Canto melodioso e distintivo, che si sente spesso nei parchi e nei giardini. Canta anche di sera."
+   },
+   {
+    "nome": "capinera",
+    "sci": "Sylvia atricapilla",
+    "come": "Gorgheggio ricco e musicale, spesso con un crescendo acuto finale, ripetuto con brevi pause. Cappuccio nero nel maschio, bruno-rossiccio nella femmina."
+   },
+   {
+    "nome": "usignolo",
+    "sci": "Luscinia megarhynchos",
+    "come": "Strofe di toni singoli e doppi molto ravvicinati, chiari e forti. A inizio primavera canta di notte fino al mattino, poi anche di giorno."
+   },
+   {
+    "nome": "picchi",
+    "sci": "",
+    "come": "Il suono è il martellare del becco sul tronco, usato per cercare larve e scavare il nido. Serve anche a segnalare la presenza ai rivali."
+   },
+   {
+    "nome": "cuculo",
+    "sci": "Cuculus canorus",
+    "come": "Il maschio ripete cu-cù da un posatoio aperto, a gruppi di 10-20 con pause di pochi secondi. La femmina emette un forte richiamo gorgogliante."
+   },
+   {
+    "nome": "upupa",
+    "sci": "Upupa epops",
+    "come": "Canto hup-up-up di tre sillabe, a volte due o quattro, soprattutto in periodo riproduttivo. Cresta erettile, becco ricurvo, piumaggio rosso-arancio, ali e coda a bande."
+   },
+   {
+    "nome": "assiolo",
+    "sci": "Otus scops",
+    "come": "Un djü o chiù non particolarmente forte, quasi sempre monosillabico. Canta dal tramonto all'alba e, muovendo il capo, è difficile da localizzare. Iride gialla."
+   }
+  ],
+  "attenzione": "",
+  "lo_sapevi": "Gli usignoli maschi imparano a cantare da giovani ascoltando i vicini e conoscono tra 120 e 260 tipi di strofe, scelti in un repertorio di almeno 2300 canzoni.",
+  "specie_atlante": [
+   "Turdus merula",
+   "Erithacus rubecula",
+   "Luscinia megarhynchos",
+   "Upupa epops",
+   "Otus scops",
+   "Sylvia atricapilla"
+  ],
+  "fonti": [
+   "https://www.wwf.ch/sites/default/files/doc-2020-03/2016-3-3-natura-in-famiglia-uccelli-canori.pdf",
+   "https://it.wikipedia.org/wiki/Picidae",
+   "https://it.wikipedia.org/wiki/Luscinia_megarhynchos",
+   "https://it.wikipedia.org/wiki/Otus_scops",
+   "https://it.wikipedia.org/wiki/Upupa_epops",
+   "https://en.wikipedia.org/wiki/Common_cuckoo",
+   "https://it.wikipedia.org/wiki/Cuculus_canorus",
+   "https://en.wikipedia.org/wiki/Eurasian_blackcap",
+   "https://www.sportoutdoor24.it/lifestyle/ambiente/i-10-uccelli-dal-canto-piu-bello-che-rischiamo-di-non-sentire-piu/"
+  ]
+ }
+]

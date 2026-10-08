@@ -1,0 +1,37 @@
+I MIEI CAMMINI, app per il telefono (versione Italia)
+
+Questa cartella è un sito statico: si apre su iPhone e Android come un'app, si installa nella schermata Home
+e funziona offline dopo aver scaricato i cammini che interessano.
+
+Per metterla in rete gratis (una volta sola, 10 minuti):
+
+1. Vai su https://github.com e crea un account gratuito, se non ce l'hai.
+2. In alto a destra scegli "New repository". Nome: cammini. Lascia "Public". Crea.
+3. Nella pagina del repository scegli "uploading an existing file" (o Add file > Upload files)
+   e trascina dentro TUTTO il contenuto di questa cartella (index.html, app.js, le cartelle dati, lib, icons...).
+   Sono circa 280 MB e dal browser GitHub accetta 100 file per volta, quindi conviene GitHub Desktop. Poi "Commit changes".
+   Se il caricamento dal browser si blocca, usa l'app GitHub Desktop (gratuita) con la stessa cartella.
+4. Nel repository vai su Settings > Pages. Sotto "Branch" scegli "main" e cartella "/ (root)". Salva.
+5. Dopo un paio di minuti l'app è su https://TUO-NOME.github.io/cammini/
+   Aprila dal telefono. Su iPhone, da Safari, Condividi > Aggiungi alla schermata Home.
+   Su Android, da Chrome, menu > Installa app.
+
+Per aggiornarla basta caricare di nuovo i file cambiati nello stesso repository.
+
+Alternativa: https://app.netlify.com/drop accetta la cartella trascinata e dà subito un indirizzo,
+ma per tenerlo serve un account gratuito Netlify.
+
+Dentro l'app: per ogni cammino "Scarica per l'uso offline" salva testi, foto e la mappa di fondo lungo il percorso.
+"Scarica GPX" passa il tracciato a Komoot, OsmAnd, Organic Maps, Strava o all'orologio.
+
+L'app ha quattro sezioni in basso: Cammini, Natura (atlante, pagine per imparare, calendario), Riconosci e Diario.
+In Riconosci si fotografa una pianta, un insetto o un uccello e tre piccoli modelli girano sul telefono anche senza rete
+(per averli offline tocca "Scarica il riconoscimento", 16 MB). Aperta dentro Claude, la stessa sezione ha anche
+"Chiedi a Claude", che usa il tuo account. Le osservazioni salvate restano sul telefono, nella sezione Diario.
+
+Novità dell'8 ottobre 2026. In basso c'è anche Aiuto, con le schede Cosa fare se e il 112.
+La scheda di ogni cammino ha il riquadro Da solo, con il livello di esperienza che serve e i passaggi delicati
+con le varianti per evitarli. In Diario ci sono La mia esperienza, dove si segnano le uscite e si vede il proprio livello,
+e Il mio storico, con i cammini in programma e quelli fatti. All'apertura l'app chiede se vuoi organizzare un cammino,
+fa qualche domanda e propone i più adatti al tuo livello, poi prepara il piano giorno per giorno.
+Le uscite, i piani e lo storico restano sul telefono, nel browser con cui si apre l'app.

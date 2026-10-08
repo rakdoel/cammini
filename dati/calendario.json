@@ -1,0 +1,543 @@
+[
+ {
+  "mese": "gennaio",
+  "intro": "In pieno inverno l'orso marsicano è in letargo, in una tana scavata o in una cavità nella roccia, lontano dalle attività umane. I cervi maschi hanno perso i palchi e restano nella fitta boscaglia. I camosci appenninici mangiano muschi, licheni e germogli, portano il vello bruno nerastro più lungo e folto, e le femmine e i giovani scendono anche sotto i mille metri. Sotto faggi, noccioli e querce si raccoglie il tartufo bianco. Fra le piante, l'agrifoglio porta drupe rosso vivo e la lentaggine fiorisce di bianco con boccioli rosa.",
+  "da_non_perdere": [
+   {
+    "cosa": "I camosci appenninici scesi a bassa quota",
+    "dove_quando": "In inverno, femmine e giovani anche sotto i 1000 metri. Parco d'Abruzzo, Maiella, Gran Sasso, Sibillini, Sirente Velino.",
+    "fonte": "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata"
+   },
+   {
+    "cosa": "Le drupe rosso vivo dell'agrifoglio nel sottobosco",
+    "dove_quando": "In inverno, in posizioni ombreggiate. Boschetto puro a Piano Pomo, nelle Madonie, a 1400 metri.",
+    "fonte": "https://it.wikipedia.org/wiki/Ilex_aquifolium"
+   },
+   {
+    "cosa": "I fiori bianchi e rosa della lentaggine",
+    "dove_quando": "Dall'autunno al pieno inverno, nel bacino del Mediterraneo.",
+    "fonte": "https://it.wikipedia.org/wiki/Viburnum_tinus"
+   },
+   {
+    "cosa": "La raccolta del tartufo bianco sotto faggi e querce",
+    "dove_quando": "Da fine estate all'inverno, in terreni marnoso calcarei, spesso vicino ai corsi d'acqua.",
+    "fonte": "https://it.wikipedia.org/wiki/Tuber_magnatum"
+   }
+  ],
+  "specie_chiave": [
+   "Ursus arctos marsicanus",
+   "Cervus elaphus",
+   "Rupicapra pyrenaica ornata",
+   "Tuber magnatum",
+   "Ilex aquifolium",
+   "Viburnum tinus"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Ursus_arctos_marsicanus",
+   "https://it.wikipedia.org/wiki/Cervus_elaphus",
+   "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata",
+   "https://it.wikipedia.org/wiki/Tuber_magnatum",
+   "https://it.wikipedia.org/wiki/Ilex_aquifolium",
+   "https://it.wikipedia.org/wiki/Viburnum_tinus"
+  ]
+ },
+ {
+  "mese": "febbraio",
+  "intro": "Alla fine dell'inverno la rana agile si riproduce, tra febbraio e marzo, anche di giorno. Nei boschi di latifoglie, nei cespuglieti e nei prati, fino a millecinquecento metri, fioriscono i bucaneve. Nel Sud il lupo appenninico ha l'estro, che si concentra in febbraio. Il merlo comincia a costruire il nido. Sulla Maiella si aprono le prime orchidee, con la Barlia robertiana in fiore da febbraio ad aprile. La lentaggine fiorisce ancora, mentre il tartufo bianco si raccoglie nei terreni marnoso calcarei sotto faggi, noccioli e querce.",
+  "da_non_perdere": [
+   {
+    "cosa": "La fioritura dei bucaneve nei boschi di latifoglie",
+    "dove_quando": "Febbraio e marzo, anche in prati e cespuglieti, da 0 a 1500 metri.",
+    "fonte": "https://it.wikipedia.org/wiki/Galanthus_nivalis"
+   },
+   {
+    "cosa": "La riproduzione della rana agile",
+    "dove_quando": "Febbraio e marzo, a fine inverno, anche di giorno. Le larve sgusciano dopo tre settimane.",
+    "fonte": "https://it.wikipedia.org/wiki/Rana_dalmatina"
+   },
+   {
+    "cosa": "Il periodo degli amori del lupo appenninico",
+    "dove_quando": "Febbraio nel Sud, a seconda della latitudine. Metà marzo sulle Alpi.",
+    "fonte": "https://it.wikipedia.org/wiki/Canis_lupus_italicus"
+   },
+   {
+    "cosa": "Il merlo che comincia a costruire il nido",
+    "dove_quando": "Da febbraio, in città e in campagna.",
+    "fonte": "https://www.greenme.it/ambiente/natura/birdwatching-lipu/"
+   },
+   {
+    "cosa": "Le prime orchidee del Parco della Maiella",
+    "dove_quando": "Barlia robertiana da febbraio ad aprile, Dactylorhiza romana da marzo, nel Parco Nazionale della Maiella.",
+    "fonte": "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+   }
+  ],
+  "specie_chiave": [
+   "Galanthus nivalis",
+   "Rana dalmatina",
+   "Canis lupus italicus",
+   "Turdus merula",
+   "Viburnum tinus",
+   "Tuber magnatum"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Galanthus_nivalis",
+   "https://it.wikipedia.org/wiki/Rana_dalmatina",
+   "https://it.wikipedia.org/wiki/Canis_lupus_italicus",
+   "https://www.greenme.it/ambiente/natura/birdwatching-lipu/",
+   "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf",
+   "https://it.wikipedia.org/wiki/Viburnum_tinus",
+   "https://it.wikipedia.org/wiki/Tuber_magnatum"
+  ]
+ },
+ {
+  "mese": "marzo",
+  "intro": "Tra marzo e aprile arrivano dall'Africa le rondini, che nidificano sotto tetti e porticati, e le upupe. Nei boschi e nei prati fioriscono ancora i bucaneve, in febbraio e marzo, fino a millecinquecento metri. La rana agile depone tra febbraio e marzo e le larve sgusciano dopo tre settimane. Sulla Maiella fiorisce l'orchidea romana, da marzo ad aprile e a volte fino a maggio, insieme alla Barlia robertiana, che resta in fiore fino ad aprile. Il merlo, attivo da febbraio, ha già cominciato il nido.",
+  "da_non_perdere": [
+   {
+    "cosa": "L'arrivo di rondini e upupe dall'Africa",
+    "dove_quando": "Tra marzo e aprile. Le rondini nidificano sotto tetti e porticati.",
+    "fonte": "https://www.quotidiano.net/magazine/uccelli-migratori-birdwatching-italia-lzcd845d"
+   },
+   {
+    "cosa": "L'orchidea romana sulla Maiella",
+    "dove_quando": "Da marzo ad aprile, a volte fino a maggio, nel Parco Nazionale della Maiella.",
+    "fonte": "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+   },
+   {
+    "cosa": "I bucaneve ancora in fiore nei boschi",
+    "dove_quando": "Fioritura in febbraio e marzo, da 0 a 1500 metri, in boschi di latifoglie e prati.",
+    "fonte": "https://it.wikipedia.org/wiki/Galanthus_nivalis"
+   },
+   {
+    "cosa": "La rana agile e la deposizione delle uova",
+    "dove_quando": "Febbraio e marzo. Dopo circa tre settimane le larve sgusciano.",
+    "fonte": "https://it.wikipedia.org/wiki/Rana_dalmatina"
+   }
+  ],
+  "specie_chiave": [
+   "Hirundo rustica",
+   "Upupa epops",
+   "Dactylorhiza romana",
+   "Galanthus nivalis",
+   "Rana dalmatina",
+   "Turdus merula"
+  ],
+  "fonti": [
+   "https://www.quotidiano.net/magazine/uccelli-migratori-birdwatching-italia-lzcd845d",
+   "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf",
+   "https://it.wikipedia.org/wiki/Galanthus_nivalis",
+   "https://it.wikipedia.org/wiki/Rana_dalmatina",
+   "https://www.greenme.it/ambiente/natura/birdwatching-lipu/"
+  ]
+ },
+ {
+  "mese": "aprile",
+  "intro": "Tra aprile e maggio torna il rondone, che può restare in volo per mesi senza quasi mai posarsi. Tra la fine di aprile e maggio arriva anche il gruccione. In primavera sullo Stretto di Messina e sul Promontorio del Circeo passano i falchi pecchiaioli e altri rapaci. A Campo Imperatore, sul Gran Sasso, a fine aprile spuntano i primi crocus, ancora sparsi. Sulla Maiella comincia la stagione delle orchidee, da aprile a giugno, con l'orchidea minore, l'orchidea farfalla e l'orchidea piramidale, mentre l'orchidea romana è ancora in fiore.",
+  "da_non_perdere": [
+   {
+    "cosa": "Le orchidee in fiore nel Parco della Maiella",
+    "dove_quando": "Da aprile a giugno, con orchidea minore, orchidea farfalla e orchidea piramidale.",
+    "fonte": "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+   },
+   {
+    "cosa": "Il ritorno dei rondoni",
+    "dove_quando": "Tra aprile e maggio. Restano in volo per mesi senza quasi mai posarsi.",
+    "fonte": "https://www.quotidiano.net/magazine/uccelli-migratori-birdwatching-italia-lzcd845d"
+   },
+   {
+    "cosa": "I primi crocus a Campo Imperatore",
+    "dove_quando": "Fine aprile, ancora sparsi. Massima fioritura a maggio sull'altopiano del Gran Sasso.",
+    "fonte": "https://www.nostrofiglio.it/famiglia/viaggi/un-immenso-tappeto-di-fiori-viola-la-gita-a-campo-imperatore-che-incantera-i-bambini"
+   },
+   {
+    "cosa": "L'arrivo dei gruccioni",
+    "dove_quando": "Tra fine aprile e maggio, dopo lo svernamento in Africa subsahariana.",
+    "fonte": "https://it.wikipedia.org/wiki/Merops_apiaster"
+   },
+   {
+    "cosa": "Il passo primaverile dei falchi pecchiaioli",
+    "dove_quando": "In primavera, sullo Stretto di Messina e sul Promontorio del Circeo.",
+    "fonte": "https://www.quotidiano.net/magazine/uccelli-migratori-birdwatching-italia-lzcd845d"
+   }
+  ],
+  "specie_chiave": [
+   "Anacamptis morio",
+   "Anacamptis papilionacea",
+   "Anacamptis pyramidalis",
+   "Dactylorhiza romana",
+   "Apus apus",
+   "Merops apiaster",
+   "Pernis apivorus"
+  ],
+  "fonti": [
+   "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf",
+   "https://www.quotidiano.net/magazine/uccelli-migratori-birdwatching-italia-lzcd845d",
+   "https://www.nostrofiglio.it/famiglia/viaggi/un-immenso-tappeto-di-fiori-viola-la-gita-a-campo-imperatore-che-incantera-i-bambini",
+   "https://it.wikipedia.org/wiki/Merops_apiaster"
+  ]
+ },
+ {
+  "mese": "maggio",
+  "intro": "A maggio i crocus di Campo Imperatore, sul Gran Sasso, raggiungono la massima fioritura e i prati diventano un tappeto di fiori viola. Alla fine del mese sui Sibillini fioriscono i narcisi selvatici, salendo da Forca di Presta al Bivacco Zilioli, prima della grande fioritura estiva di Castelluccio. Sulla Maiella, a Palena, si contano circa sessanta specie di orchidee selvatiche. Le cefalantere fioriscono da maggio a luglio. Il gruccione nidifica di solito all'inizio del mese.",
+  "da_non_perdere": [
+   {
+    "cosa": "La massima fioritura dei crocus a Campo Imperatore",
+    "dove_quando": "A maggio, un tappeto di fiori viola sull'altopiano del Gran Sasso.",
+    "fonte": "https://www.nostrofiglio.it/famiglia/viaggi/un-immenso-tappeto-di-fiori-viola-la-gita-a-campo-imperatore-che-incantera-i-bambini"
+   },
+   {
+    "cosa": "I narcisi selvatici sui Monti Sibillini",
+    "dove_quando": "Fine maggio, da Forca di Presta al Bivacco Zilioli, a 2250 metri.",
+    "fonte": "https://www.montagna.tv/274009/tempo-di-fioriture-5-itinerari-tra-colori-ed-emozioni/amp/"
+   },
+   {
+    "cosa": "Le orchidee del sentiero I1 a Palena",
+    "dove_quando": "Fine maggio, ai piedi di Monte Porrara fino all'Eremo della Madonna dell'Altare, circa 60 specie.",
+    "fonte": "https://www.montagna.tv/274009/tempo-di-fioriture-5-itinerari-tra-colori-ed-emozioni/amp/"
+   },
+   {
+    "cosa": "L'inizio della nidificazione dei gruccioni",
+    "dove_quando": "Di solito all'inizio di maggio, dopo l'arrivo tra fine aprile e maggio.",
+    "fonte": "https://it.wikipedia.org/wiki/Merops_apiaster"
+   },
+   {
+    "cosa": "Le cefalantere in fiore nel Parco della Maiella",
+    "dove_quando": "Da maggio a luglio, nel Parco Nazionale della Maiella.",
+    "fonte": "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+   }
+  ],
+  "specie_chiave": [
+   "Narcissus poeticus",
+   "Dactylorhiza sambucina",
+   "Cephalanthera longifolia",
+   "Cephalanthera damasonium",
+   "Anacamptis pyramidalis",
+   "Merops apiaster"
+  ],
+  "fonti": [
+   "https://www.nostrofiglio.it/famiglia/viaggi/un-immenso-tappeto-di-fiori-viola-la-gita-a-campo-imperatore-che-incantera-i-bambini",
+   "https://www.montagna.tv/274009/tempo-di-fioriture-5-itinerari-tra-colori-ed-emozioni/amp/",
+   "https://it.wikipedia.org/wiki/Merops_apiaster",
+   "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+  ]
+ },
+ {
+  "mese": "giugno",
+  "intro": "Da metà giugno la Piana di Castelluccio di Norcia entra nel periodo di fioritura più intenso, che dura fino a metà luglio. Alla senape gialla seguono i fiordalisi blu, i papaveri rossi e gli eliantemi bianchi. Sulla Maiella fiorisce la scarpetta di Venere. Verso l'inizio del mese la femmina del camoscio appenninico si allontana dal gruppo e partorisce un cucciolo. Nascono anche i cuccioli del lupo, tra giugno e luglio. Gli adulti del cervo volante, presenti dall'autunno, escono all'aperto solo a giugno, e sulle spiagge cominciano i nidi della tartaruga caretta.",
+  "da_non_perdere": [
+   {
+    "cosa": "La fioritura della Piana di Castelluccio di Norcia",
+    "dove_quando": "Il periodo più intenso va da metà giugno a metà luglio. Pian Grande, Pian Piccolo, Pian Perduto.",
+    "fonte": "https://www.quotidiano.net/itinerari/consigli-di-viaggio/fioritura-castelluccio-norcia-oeutmdbe"
+   },
+   {
+    "cosa": "La scarpetta di Venere sulla Maiella",
+    "dove_quando": "Fioritura a giugno, nel Parco Nazionale della Maiella.",
+    "fonte": "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+   },
+   {
+    "cosa": "Le nascite dei piccoli di camoscio appenninico",
+    "dove_quando": "Di norma agli inizi di giugno. Parco d'Abruzzo, Maiella, Gran Sasso, Sibillini.",
+    "fonte": "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata"
+   },
+   {
+    "cosa": "I cervi volanti adulti escono all'aperto",
+    "dove_quando": "Da giugno, dopo essere rimasti nascosti dall'autunno. Vivono in ceppi e tronchi di alberi vecchi.",
+    "fonte": "https://it.wikipedia.org/wiki/Lucanus_cervus"
+   },
+   {
+    "cosa": "I primi nidi della tartaruga caretta",
+    "dove_quando": "Nidificazioni documentate da giugno a settembre in Puglia, Campania e Lazio.",
+    "fonte": "https://it.wikipedia.org/wiki/Caretta_caretta"
+   }
+  ],
+  "specie_chiave": [
+   "Cypripedium calceolus",
+   "Centaurea cyanus",
+   "Papaver rhoeas",
+   "Rupicapra pyrenaica ornata",
+   "Canis lupus italicus",
+   "Lucanus cervus",
+   "Caretta caretta"
+  ],
+  "fonti": [
+   "https://www.quotidiano.net/itinerari/consigli-di-viaggio/fioritura-castelluccio-norcia-oeutmdbe",
+   "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf",
+   "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata",
+   "https://it.wikipedia.org/wiki/Canis_lupus_italicus",
+   "https://it.wikipedia.org/wiki/Lucanus_cervus",
+   "https://it.wikipedia.org/wiki/Caretta_caretta"
+  ]
+ },
+ {
+  "mese": "luglio",
+  "intro": "Fino a metà luglio la Piana di Castelluccio resta nel periodo più intenso della fioritura. In luglio i palchi dei cervi raggiungono il massimo sviluppo e si ossificano, e durante l'estate i cervi salgono verso le praterie in quota. L'apollo vola da maggio a settembre, più frequente sopra i mille metri, ma in Appennino è presente in modo sporadico. I cervi volanti adulti sono attivi, i maschi fino a luglio e agosto, le femmine fino a settembre avanzato. Il lupo appenninico ha i cuccioli nati tra giugno e luglio. In Sicilia sono documentati nidi di caretta a luglio.",
+  "da_non_perdere": [
+   {
+    "cosa": "Fiordalisi e papaveri sulla Piana di Castelluccio",
+    "dove_quando": "Fino a metà luglio, dopo la senape gialla, tra i Monti Sibillini con il Monte Vettore a 2478 metri.",
+    "fonte": "https://www.quotidiano.net/itinerari/consigli-di-viaggio/fioritura-castelluccio-norcia-oeutmdbe"
+   },
+   {
+    "cosa": "I palchi dei cervi al massimo sviluppo",
+    "dove_quando": "In luglio. In estate i cervi salgono alle praterie in quota.",
+    "fonte": "https://it.wikipedia.org/wiki/Cervus_elaphus"
+   },
+   {
+    "cosa": "L'apollo sui prati fioriti in quota",
+    "dove_quando": "Vola da maggio a settembre, più frequente sopra i 1000 metri. In Appennino è sporadico, soprattutto tosco emiliano e umbro.",
+    "fonte": "https://it.wikipedia.org/wiki/Parnassius_apollo"
+   },
+   {
+    "cosa": "Il cervo volante con le sue grandi corna",
+    "dove_quando": "Maschi attivi fino a luglio e agosto, femmine fino a settembre avanzato.",
+    "fonte": "https://it.wikipedia.org/wiki/Lucanus_cervus"
+   },
+   {
+    "cosa": "Le nidificazioni della caretta in Sicilia",
+    "dove_quando": "Date documentate in luglio a Sciacca, a Mondello e sulla spiaggia di Playa, a Catania.",
+    "fonte": "https://it.wikipedia.org/wiki/Caretta_caretta"
+   }
+  ],
+  "specie_chiave": [
+   "Cervus elaphus",
+   "Lucanus cervus",
+   "Parnassius apollo",
+   "Caretta caretta",
+   "Cephalanthera damasonium",
+   "Centaurea cyanus"
+  ],
+  "fonti": [
+   "https://www.quotidiano.net/itinerari/consigli-di-viaggio/fioritura-castelluccio-norcia-oeutmdbe",
+   "https://it.wikipedia.org/wiki/Cervus_elaphus",
+   "https://it.wikipedia.org/wiki/Parnassius_apollo",
+   "https://it.wikipedia.org/wiki/Lucanus_cervus",
+   "https://it.wikipedia.org/wiki/Canis_lupus_italicus",
+   "https://it.wikipedia.org/wiki/Caretta_caretta",
+   "https://www.parcomajella.it/file/guidaalleorchideespontaneedelpnm-1.pdf"
+  ]
+ },
+ {
+  "mese": "agosto",
+  "intro": "Ad agosto inoltrato il gruccione riparte verso l'Africa subsahariana, dove sverna. Sulle spiagge della Sicilia e della Calabria sono documentate schiuse della tartaruga caretta a fine agosto. I cervi volanti maschi muoiono tra luglio e agosto, mentre le femmine restano attive fino a settembre avanzato. Tra fine agosto e settembre compaiono i fiori rosa pallido del ciclamino napoletano. In quota continua il volo dell'apollo, che va da maggio a settembre. Nei boschi crescono porcini e gallinacci, dall'estate all'autunno.",
+  "da_non_perdere": [
+   {
+    "cosa": "La partenza dei gruccioni verso l'Africa",
+    "dove_quando": "Ad agosto inoltrato, verso l'Africa subsahariana dove svernano.",
+    "fonte": "https://it.wikipedia.org/wiki/Merops_apiaster"
+   },
+   {
+    "cosa": "Le schiuse della tartaruga caretta",
+    "dove_quando": "Fine agosto, con schiuse documentate a Playa, Catania, e a Falerna, in Calabria.",
+    "fonte": "https://it.wikipedia.org/wiki/Caretta_caretta"
+   },
+   {
+    "cosa": "I ciclamini napoletani appena fioriti",
+    "dove_quando": "Fine agosto o settembre, fiori rosa pallido prima delle foglie.",
+    "fonte": "https://it.wikipedia.org/wiki/Cyclamen_hederifolium"
+   },
+   {
+    "cosa": "Gli ultimi cervi volanti maschi",
+    "dove_quando": "I maschi muoiono tra luglio e agosto, le femmine restano attive fino a settembre.",
+    "fonte": "https://it.wikipedia.org/wiki/Lucanus_cervus"
+   },
+   {
+    "cosa": "L'apollo ancora in volo in quota",
+    "dove_quando": "Da maggio a settembre, soprattutto sopra i 1000 metri, su prati e pendii rocciosi.",
+    "fonte": "https://it.wikipedia.org/wiki/Parnassius_apollo"
+   }
+  ],
+  "specie_chiave": [
+   "Merops apiaster",
+   "Caretta caretta",
+   "Cyclamen hederifolium",
+   "Lucanus cervus",
+   "Boletus edulis",
+   "Cantharellus cibarius",
+   "Parnassius apollo"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Merops_apiaster",
+   "https://it.wikipedia.org/wiki/Caretta_caretta",
+   "https://it.wikipedia.org/wiki/Cyclamen_hederifolium",
+   "https://it.wikipedia.org/wiki/Lucanus_cervus",
+   "https://it.wikipedia.org/wiki/Parnassius_apollo",
+   "https://it.wikipedia.org/wiki/Boletus_edulis",
+   "https://it.wikipedia.org/wiki/Cantharellus_cibarius"
+  ]
+ },
+ {
+  "mese": "settembre",
+  "intro": "Da metà settembre comincia la stagione degli amori del cervo e tra settembre e ottobre i bramiti echeggiano in molte valli dell'Appennino. I lupi giovani cominciano a muoversi per conto proprio, in settembre e ottobre. Nei boschi di querce, castagni e faggi crescono porcini e gallinacci, e il tartufo bianco è nella stagione di raccolta, che va da fine estate all'inverno. I ciclamini napoletani fioriscono a fine agosto o a settembre e le foglie restano fino alla primavera. L'orso marsicano si nutre molto e accumula grasso. Sulle spiagge sono documentati nidi di caretta fino a settembre.",
+  "da_non_perdere": [
+   {
+    "cosa": "Il bramito dei cervi nelle valli dell'Appennino",
+    "dove_quando": "Settembre e ottobre, nella Marsica a Val di Rose, Villetta Barrea, Scanno e Monti della Duchessa.",
+    "fonte": "https://www.montagna.tv/262634/abruzzo-dove-ascoltare-i-bramiti-dei-cervi/amp/"
+   },
+   {
+    "cosa": "I ciclamini napoletani nei boschi",
+    "dove_quando": "Fine agosto o settembre, con le foglie che spuntano dopo e restano fino a primavera.",
+    "fonte": "https://it.wikipedia.org/wiki/Cyclamen_hederifolium"
+   },
+   {
+    "cosa": "I porcini nei boschi di querce, castagni e faggi",
+    "dove_quando": "Dall'estate all'autunno inoltrato, anche in boschi di conifere, escluso il larice.",
+    "fonte": "https://it.wikipedia.org/wiki/Boletus_edulis"
+   },
+   {
+    "cosa": "Il gallinaccio nei boschi di latifoglie e aghifoglie",
+    "dove_quando": "In estate e autunno, in gruppi o circoli sul terreno muschioso.",
+    "fonte": "https://it.wikipedia.org/wiki/Cantharellus_cibarius"
+   },
+   {
+    "cosa": "Le nidificazioni della caretta sulle spiagge",
+    "dove_quando": "Documentate fino a settembre in Puglia, Campania, Lazio e Sicilia.",
+    "fonte": "https://it.wikipedia.org/wiki/Caretta_caretta"
+   }
+  ],
+  "specie_chiave": [
+   "Cervus elaphus",
+   "Cyclamen hederifolium",
+   "Boletus edulis",
+   "Cantharellus cibarius",
+   "Tuber magnatum",
+   "Canis lupus italicus",
+   "Ursus arctos marsicanus"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Cervus_elaphus",
+   "https://www.montagna.tv/262634/abruzzo-dove-ascoltare-i-bramiti-dei-cervi/amp/",
+   "https://it.wikipedia.org/wiki/Canis_lupus_italicus",
+   "https://it.wikipedia.org/wiki/Boletus_edulis",
+   "https://it.wikipedia.org/wiki/Cantharellus_cibarius",
+   "https://it.wikipedia.org/wiki/Tuber_magnatum",
+   "https://it.wikipedia.org/wiki/Cyclamen_hederifolium",
+   "https://it.wikipedia.org/wiki/Ursus_arctos_marsicanus",
+   "https://it.wikipedia.org/wiki/Caretta_caretta"
+  ]
+ },
+ {
+  "mese": "ottobre",
+  "intro": "I bramiti dei cervi continuano nelle valli dell'Appennino e a inizio mese si fanno più rari, sostituiti dai colpi secchi delle cornate. Verso metà ottobre i camosci maschi lasciano l'eremitaggio, quando comincia l'estro delle femmine. Nelle Foreste Casentinesi il foliage raggiunge l'apice in quota nelle ultime due settimane del mese, con faggi color ruggine dorato, aceri giallo limone, rossi e arancioni, orniello vinaccia e castagni gialli. Il corbezzolo ha frutti maturi da ottobre a dicembre. I lupi giovani si disperdono tra settembre e ottobre.",
+  "da_non_perdere": [
+   {
+    "cosa": "Le ultime serate di bramito e i colpi delle cornate",
+    "dove_quando": "A inizio ottobre i richiami si fanno rari. Marsica, tra Parco d'Abruzzo e Velino.",
+    "fonte": "https://www.montagna.tv/262634/abruzzo-dove-ascoltare-i-bramiti-dei-cervi/amp/"
+   },
+   {
+    "cosa": "I camosci maschi escono dall'eremitaggio",
+    "dove_quando": "Verso metà ottobre, all'inizio dell'estro delle femmine. Parco d'Abruzzo, Maiella, Gran Sasso, Sibillini.",
+    "fonte": "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata"
+   },
+   {
+    "cosa": "Il foliage dei faggi nelle Foreste Casentinesi",
+    "dove_quando": "Ultime due settimane di ottobre nella fascia montana. Tra i luoghi indicati Foresta della Lama, Campigna, Monte Falterona.",
+    "fonte": "https://www.parcoforestecasentinesi.it/sites/default/files/images/foliage%20parco.pdf"
+   },
+   {
+    "cosa": "I frutti rossi del corbezzolo",
+    "dove_quando": "Maturi da ottobre a dicembre, sullo stesso albero dei fiori.",
+    "fonte": "https://it.wikipedia.org/wiki/Arbutus_unedo"
+   }
+  ],
+  "specie_chiave": [
+   "Cervus elaphus",
+   "Rupicapra pyrenaica ornata",
+   "Fagus sylvatica",
+   "Fraxinus ornus",
+   "Castanea sativa",
+   "Arbutus unedo"
+  ],
+  "fonti": [
+   "https://www.montagna.tv/262634/abruzzo-dove-ascoltare-i-bramiti-dei-cervi/amp/",
+   "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata",
+   "https://www.parcoforestecasentinesi.it/sites/default/files/images/foliage%20parco.pdf",
+   "https://it.wikipedia.org/wiki/Arbutus_unedo",
+   "https://it.wikipedia.org/wiki/Canis_lupus_italicus"
+  ]
+ },
+ {
+  "mese": "novembre",
+  "intro": "Il foliage continua nelle Foreste Casentinesi, dove la fascia collinare raggiunge l'apice nei primi giorni di novembre, e in Abruzzo dura fino a metà mese, con faggete rosse, gialle e dorate. Il corbezzolo fiorisce in novembre, con fiori bianco giallastri o rosa, mentre sullo stesso albero maturano i frutti rossi dell'anno prima. La lentaggine fiorisce dall'autunno al pieno inverno. Il tartufo bianco si raccoglie in autunno nei terreni marnoso calcarei, sotto faggio, nocciolo e quercia.",
+  "da_non_perdere": [
+   {
+    "cosa": "Il foliage della fascia collinare nelle Foreste Casentinesi",
+    "dove_quando": "Primi giorni di novembre, nella fascia collinare del Parco Nazionale delle Foreste Casentinesi.",
+    "fonte": "https://www.parcoforestecasentinesi.it/sites/default/files/images/foliage%20parco.pdf"
+   },
+   {
+    "cosa": "Le faggete d'Abruzzo rosse, gialle e dorate",
+    "dove_quando": "Fino a metà novembre. Valle delle Cento Cascate, Valle del Chiarino, Lama Bianca, Ferroio di Scanno.",
+    "fonte": "https://www.montagna.tv/228386/6-foreste-dellabruzzo-dove-ammirare-i-piu-sgargianti-colori-dellautunno/amp/"
+   },
+   {
+    "cosa": "I fiori del corbezzolo accanto ai frutti maturi",
+    "dove_quando": "A novembre i fiori, mentre i frutti maturano da ottobre a dicembre.",
+    "fonte": "https://it.wikipedia.org/wiki/Arbutus_unedo"
+   },
+   {
+    "cosa": "La lentaggine in fiore",
+    "dove_quando": "Dall'autunno al pieno inverno, fiori bianchi con boccioli rosa.",
+    "fonte": "https://it.wikipedia.org/wiki/Viburnum_tinus"
+   }
+  ],
+  "specie_chiave": [
+   "Fagus sylvatica",
+   "Castanea sativa",
+   "Arbutus unedo",
+   "Viburnum tinus",
+   "Tuber magnatum"
+  ],
+  "fonti": [
+   "https://www.parcoforestecasentinesi.it/sites/default/files/images/foliage%20parco.pdf",
+   "https://www.montagna.tv/228386/6-foreste-dellabruzzo-dove-ammirare-i-piu-sgargianti-colori-dellautunno/amp/",
+   "https://it.wikipedia.org/wiki/Arbutus_unedo",
+   "https://it.wikipedia.org/wiki/Viburnum_tinus",
+   "https://it.wikipedia.org/wiki/Tuber_magnatum"
+  ]
+ },
+ {
+  "mese": "dicembre",
+  "intro": "I frutti del corbezzolo maturano fino a dicembre, sullo stesso albero dei fiori comparsi in novembre. L'agrifoglio porta drupe rosso vivo nel sottobosco ombreggiato, con frutti maturi da ottobre a dicembre. La lentaggine è ancora in fiore, con boccioli rosa. Il tartufo bianco si raccoglie nei terreni con faggio, nocciolo e quercia. Con l'inverno i cervi maschi perdono i palchi e si ritirano nella fitta boscaglia, mentre i camosci appenninici passano ai muschi e ai licheni e le femmine e i giovani scendono anche sotto i mille metri.",
+  "da_non_perdere": [
+   {
+    "cosa": "I frutti del corbezzolo ancora sull'albero",
+    "dove_quando": "Maturano fino a dicembre, insieme ai fiori comparsi in novembre.",
+    "fonte": "https://it.wikipedia.org/wiki/Arbutus_unedo"
+   },
+   {
+    "cosa": "Le drupe rosse dell'agrifoglio",
+    "dove_quando": "Frutti maturi da ottobre a dicembre, rossi per tutto l'inverno.",
+    "fonte": "https://it.wikipedia.org/wiki/Ilex_aquifolium"
+   },
+   {
+    "cosa": "I camosci appenninici a bassa quota",
+    "dove_quando": "In inverno, femmine e giovani anche sotto i 1000 metri. Parco d'Abruzzo, Maiella, Gran Sasso.",
+    "fonte": "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata"
+   },
+   {
+    "cosa": "La raccolta del tartufo bianco",
+    "dove_quando": "In autunno e in inverno, in terreni marnoso calcarei con faggio, nocciolo e quercia.",
+    "fonte": "https://it.wikipedia.org/wiki/Tuber_magnatum"
+   }
+  ],
+  "specie_chiave": [
+   "Arbutus unedo",
+   "Ilex aquifolium",
+   "Viburnum tinus",
+   "Tuber magnatum",
+   "Cervus elaphus",
+   "Rupicapra pyrenaica ornata"
+  ],
+  "fonti": [
+   "https://it.wikipedia.org/wiki/Arbutus_unedo",
+   "https://it.wikipedia.org/wiki/Ilex_aquifolium",
+   "https://it.wikipedia.org/wiki/Viburnum_tinus",
+   "https://it.wikipedia.org/wiki/Tuber_magnatum",
+   "https://it.wikipedia.org/wiki/Cervus_elaphus",
+   "https://it.wikipedia.org/wiki/Rupicapra_pyrenaica_ornata"
+  ]
+ }
+]

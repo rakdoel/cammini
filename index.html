@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>I miei cammini</title>
+<meta name="theme-color" content="#0072B2">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Cammini">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="lib/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="testata">
+  <button id="indietro" class="ico" aria-label="Indietro" hidden>‹</button>
+  <h1 id="titolo">I miei cammini</h1>
+  <button id="cerca-btn" class="ico" aria-label="Cerca">⌕</button>
+</header>
+<main id="pagina"></main>
+<nav id="schede" hidden>
+  <button data-tab="scheda"><i>▤</i>Scheda</button>
+  <button data-tab="mappa"><i>◎</i>Mappa</button>
+  <button data-tab="natura"><i>❀</i>Natura</button>
+  <button data-tab="storia"><i>✦</i>Storia</button>
+  <button data-tab="diario"><i>✎</i>Diario</button>
+</nav>
+<div id="avviso" hidden></div>
+<script src="lib/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

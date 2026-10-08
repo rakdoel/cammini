@@ -1,0 +1,3 @@
+L'app è divisa in quattro file zip solo perché in chat non passa un file unico.
+Scompatta tutti e quattro nella stessa cartella (app_italia): i file si incastrano da soli.
+Poi segui LEGGIMI_APP.txt per metterla online e installarla sul telefono.
